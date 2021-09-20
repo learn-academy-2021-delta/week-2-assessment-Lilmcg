@@ -23,10 +23,10 @@ const greeter = (name) => {
 }
 console.log(greeter("LEARN Student"))
 
-// a) Your answer:
+// a) Your answer: Hello LEARN Student
 
 // b) Verify and explain:
-
+// My answer was wrong. There was no return indicated in the code so the result is undefined
 
 // --------------------3) What will this log?
 
